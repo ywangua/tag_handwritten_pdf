@@ -45,6 +45,7 @@ with open(output_fn, 'w') as f:
 print('[INFO] generating tagged PDF ...')
 subprocess.run(['./helper/typst', 'compile', output_fn.replace(' ', '\\ ')])
 print(f'[INFO] output pdf is saved!')
-subprocess.run(['rm', '-rf', './tmp'])
+# subprocess.run(['rm', '-rf', './tmp']) # don't remove tmp folder if you want to manually edit and compile the typ file.
 # done
+
 print('[INFO] DONE!')
