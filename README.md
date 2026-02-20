@@ -1,6 +1,6 @@
 # Tag Handwritten PDF
 
-**April Fools' Day** Project: a quick and dirty workaround to **trick** Blackboard's Accessibility Checks. (the author does not take any legal or other responsibility of this program here)
+**April Fools' Day** Project: a quick and dirty workaround to **trick** Blackboard's Accessibility Checks. The code is for fun only; the author does not take any legal or any other responsibilities for the code here.
 
 **Warning**: do not use this program if you want real accessibility; instead, build from LaTeX/Typst/Word/Powerpoint sources to generate accessible PDF files.
 
